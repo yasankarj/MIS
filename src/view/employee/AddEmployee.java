@@ -8,7 +8,7 @@ package view.employee;
 
 /**
  *
- * @author Yasanka Jayawardane
+ * @author Yasanka 
  */
 public class AddEmployee extends javax.swing.JFrame {
 
